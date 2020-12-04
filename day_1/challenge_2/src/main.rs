@@ -1,7 +1,7 @@
 use std::fs;
 
 fn main() {
-    println!("Advent of Code: Day 1, Challenge 1");
+    println!("Advent of Code: Day 1, Challenge 2");
 
     let contents = fs::read_to_string("input_1.txt")
         .expect("Something went wrong reading the file");
